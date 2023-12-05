@@ -1,7 +1,7 @@
-# Implementação dos métodos para validação do campo CEP.
+# Implementação Dos Métodos Para Validação Do Campo CEP.
 
-Alunos: Almir Cássio, Gabriel Lacerda, João Vitor e Wellington Junior
-Disciplina: Teste de Software
-Professor: Silvio Caetano
-Curso: Sistemas da Informação
-Uninassau Olinda
+Alunos: Almir Cássio, Gabriel Lacerda, João Vitor e Wellington Junior<br/>
+Disciplina: Teste de Software<br/>
+Professor: Silvio Caetano<br/>
+Curso: Sistemas da Informação<br/> 
+Uninassau Olinda 
