@@ -10,7 +10,7 @@ public class Main extends Endereco {
         System.out.println("Cadastro do endereço.");
 
         System.out.println("Digite o CEP: ");
-        int cep = sc.nextInt();
+        String cep = sc.next();
         endereco.setCep(cep);
 
         System.out.println(endereco.getCep());

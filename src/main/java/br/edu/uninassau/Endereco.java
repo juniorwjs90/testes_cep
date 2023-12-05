@@ -1,7 +1,7 @@
 package br.edu.uninassau;
 
 public class Endereco {
-    public int cep;
+    public String cep;
     public String logradouro;
     public int numero;
     public String complemento;
@@ -9,11 +9,11 @@ public class Endereco {
     public String cidade;
     public String estado;
 
-    public int getCep() {
+    public String getCep() {
         return cep;
     }
 
-    public void setCep(int cep) {
+    public void setCep(String cep) {
         this.cep = cep;
     }
 
